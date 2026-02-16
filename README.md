@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**SSHIL-DA/SSHIL-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sanjana**, a BCA student and aspiring Data Analyst.
 
-Here are some ideas to get you started:
+I enjoy exploring datasets and discovering hidden patterns in them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What excites me most is understanding how those patterns help in making meaningful decisions through data analysis.
+
+---
+
+### 🧰 Tech Stack
+
+* SQL
+* Advanced Excel
+* Power BI
+* Python
+
+---
+
+If you're also learning data analysis, we're probably on the same journey 🙂
+
+I believe good analysis isn’t just about numbers — it's about understanding the story behind them and turning it into meaningful decisions.
+
+⭐ Always learning, building, and improving with every project.
